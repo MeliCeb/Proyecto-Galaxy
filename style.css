@@ -41,11 +41,6 @@ html {
     height: 10vh;
 
 }
-/*  background-color: var(--background);
-    display: grid;
-    place-items: center;
-    height: 100vh;
-*/
 
 .button {
     color: var(--background);
